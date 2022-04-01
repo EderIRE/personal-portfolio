@@ -28,6 +28,8 @@
 .container-menu a#btn-cta:link,
 .container-menu a#btn-cta:visited {
   background-color: var(--blue-500);
+  border-radius: 30px;
+  border: none;
 }
 .container-menu a#btn-cta:focus,
 .container-menu a#btn-cta:hover,
