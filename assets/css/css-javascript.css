@@ -1,11 +1,11 @@
 .container-menu.menu-desktop {
-  background-color: var(--gray-800);
+  background-color: #0a58ca;
 }
 .container-menu.menu-mobile {
-  background-color: var(--gray-800);
+  background-color: #0a58ca;
 }
 .container-menu.menu-mobile ul.mobile-display {
-  background-color: var(--gray-800);
+  background-color: #0a58ca;
 }
 .container-menu a:link {
   font-weight: 600 !important;
@@ -27,9 +27,10 @@
 }
 .container-menu a#btn-cta:link,
 .container-menu a#btn-cta:visited {
-  background-color: var(--blue-500);
+  background-color: white;
   border-radius: 30px;
   border: none;
+  color: black;
 }
 .container-menu a#btn-cta:focus,
 .container-menu a#btn-cta:hover,
@@ -47,6 +48,7 @@ header.hero-block-js {
   padding-top: 42px;
   padding-bottom: 24px;
   text-align: left;
+  background-color: white;
 }
 
 header.hero-block-js .hero-text-container {
