@@ -48,7 +48,6 @@ header.hero-block-js {
   padding-top: 42px;
   padding-bottom: 24px;
   text-align: left;
-  background-color: white;
 }
 
 header.hero-block-js .hero-text-container {
@@ -135,4 +134,8 @@ header.hero-block-js .hero-text-container img {
 
 .theme-js .col-2 a.btn > :nth-child(2) {
   margin-left: 10px;
+}
+
+header.hero-block-js {
+  background-color: white !important;
 }
