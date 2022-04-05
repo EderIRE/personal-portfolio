@@ -2407,8 +2407,9 @@ footer p.privacy a:hover {
   background-color: transparent;
 }
 .container-menu a:first-child img {
-  width: 150px;
-  height: 150px;
+  width: 100px;
+  height: 100%;
+  padding: 10%;
   outline: 0;
 }
 .container-menu a:first-child {
