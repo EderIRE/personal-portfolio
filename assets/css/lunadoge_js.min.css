@@ -17,7 +17,7 @@ html {
   scroll-padding-top: 20px;
 }
 body {
-  max-width: 1920px;
+  max-width: 1600px;
   line-height: 1.5;
   margin-left: auto;
   margin-right: auto;
@@ -2410,6 +2410,7 @@ footer p.privacy a:hover {
   width: 100px;
   height: 100%;
   padding: 10%;
+  border-radius: 20px;
   outline: 0;
 }
 .container-menu a:first-child {
